@@ -69,9 +69,7 @@ The following listing shows the `pom.xml` file that is created when you choose M
 
 ====
 [source,xml]
-----
-include::initial/pom.xml
-----
+include::initial/pom.xml[]
 ====
 
 The following listing shows the `build.gradle` file that is created when you choose Gradle:

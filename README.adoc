@@ -67,10 +67,8 @@ and Artifact, respectively. You will use those values throughout the rest of thi
 
 The following listing shows the `pom.xml` file that is created when you choose Maven:
 
-====
 [source,xml]
 include::initial/pom.xml[]
-====
 
 The following listing shows the `build.gradle` file that is created when you choose Gradle:
 
